@@ -1,0 +1,3 @@
+081109 213506 2421 INFO dfs.DataNode$DataXceiver: Receiving block blk_-3509323198988774369 src: /10.250.6.214:52922 dest: /10.250.6.214:50010
+081109 234107 4261 INFO dfs.DataNode$DataXceiver: Receiving block blk_-1259190292740306590 src: /10.251.65.203:36289 dest: /10.251.65.203:50010
+081109 232200 3856 INFO dfs.DataNode$PacketResponder: Received block blk_-6867873931012347356 of size 67108864 from /10.251.39.64
